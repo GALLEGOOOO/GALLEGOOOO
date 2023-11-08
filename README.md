@@ -3,7 +3,7 @@
 </em></p>
 
 <h2> My Github Stats 📊 </h2>
-<img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200" style="margin-right: 20px">
+<img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200" style="margin-right: 50px">
 
 [![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515_private=true)](https://github.com/GALLEGOOOO)
 
