@@ -6,7 +6,7 @@
 
 [![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=737373&text_color=737373&bg_color=737373_private=true)](https://github.com/GALLEGOOOO)
 
-<h2>Programming Languages and Development Tools 🚀</h2>
+<h2>Programming Languages 🚀</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%23197BC9.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></a>
@@ -16,6 +16,8 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-%23F89720.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-%230097D6.svg?style=for-the-badge&logo=xml&logoColor=white"/></a>
 <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/></a>
+
+<h2>Development Tools 🛠️</h2>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio-%230093FF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-%2300A98F.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
@@ -29,13 +31,6 @@
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-%231A61A9.svg?style=for-the-badge&logo=powershell&logoColor=white"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
-
-<h2>Other Accounts 📫</h2>
-<a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arnaugb27.agb@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23ED4133.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/__gallegooo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/arnaugamerz" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://twitter.com/__GALLEGOOO"><img src="https://img.shields.io/badge
 
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
