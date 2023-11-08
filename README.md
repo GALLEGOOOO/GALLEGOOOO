@@ -29,7 +29,7 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge"/></a>
 
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
