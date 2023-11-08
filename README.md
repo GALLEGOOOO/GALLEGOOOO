@@ -6,6 +6,16 @@
 
 [![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=737373&text_color=737373&bg_color=737373_private=true)](https://github.com/GALLEGOOOO)
 
+<h2>Programming Languages 🚀</h2>
+<a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-%23197BC9.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-%23E51F24.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-%23F89720.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/XML-%230097D6.svg?style=for-the-badge&logo=xml&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/></a>
 
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
