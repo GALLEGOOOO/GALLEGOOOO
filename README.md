@@ -1,4 +1,5 @@
 <h2 align="center">Hello, World 👋</h2> 
+<p>raduate student at the <a href="(https://mataro.escolapia.cat/)">Escola Pia Mataró</a>, specializing in Computer Science. 😊</p>
 
 ![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
