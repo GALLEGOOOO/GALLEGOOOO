@@ -19,7 +19,7 @@
 
 <h2>Development Tools 🛠️</h2>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio-%23538BB4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio-%230093FF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-%2300A98F.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
 <a href="https://www.spyder-ide.org/"><img src="https://img.shields.io/badge/Spyder-%232E5D5F.svg?style=for-the-badge&logo=spyderide&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230072C6.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
