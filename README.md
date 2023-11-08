@@ -9,4 +9,4 @@
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/__gallegooo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/arnaugamerz" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://open.spotify.com/user/arnaugamerz" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
