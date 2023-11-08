@@ -2,8 +2,7 @@
 <p><em>A bachelor student at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>, specializing in Computer Science. 😊</br>
 </em></p>
 
-![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali) (test)
+[![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515_private=true)](https://github.com/GALLEGOOOO) 
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <p align="center">
