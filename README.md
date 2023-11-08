@@ -17,6 +17,20 @@
 <a href="#"><img src="https://img.shields.io/badge/XML-%230097D6.svg?style=for-the-badge&logo=xml&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/></a>
 
+<h2>Development Tools 🛠️</h2>
+<a href="#"><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-%23538BB4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse%20IDE-%2300A98F.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spyder-%232E5D5F.svg?style=for-the-badge&logo=spyderide&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-%230072C6.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Laragon-%232496ED.svg?style=for-the-badge&logo=laragon&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/></a>
+
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:arnaugb27.agb@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23ED4133.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
