@@ -4,7 +4,7 @@
 
 <h2>📊 My Github Stats 📊</h2>
 
-[![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=000000&text_color=9f9f9f&bg_color=000000_private=true)](https://github.com/GALLEGOOOO)
+[![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=000000&text_color=000000&bg_color=000000_private=true)](https://github.com/GALLEGOOOO)
 
 <h2>📫 Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
