@@ -37,6 +37,5 @@
 <a href="mailto:arnaugb27.agb@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23ED4133.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/__gallegooo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/arnaugamerz" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://twitter.com/__GALLEGOOO"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discord.com/users/1103345973524172880"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://paypal.me/arnaugallegob"><img src="https://img.shields.io/badge/PayPal-0093FF?style=for-the-badge&logo=paypal&logoColor=white"/></a>
