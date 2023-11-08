@@ -13,10 +13,9 @@
   <a href="https://instagram.com/__gallegooo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+<a href="https://github.com/GALLEGOOOO">
+  <img src="https://img.shields.io/github/followers/GALLEGOOOO">
 </a>
-
 <a href="https://github.com/GALLEGOOOO">
    <img src="https://komarev.com/ghpvc/?username=GALLEGOOOO">
 </a>
