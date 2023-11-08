@@ -13,6 +13,14 @@
   <a href="https://instagram.com/__gallegooo"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+<a href="https://github.com/iCharlesZ" style="text-decoration: none; margin-right: 10px;">
+  <img src="https://img.shields.io/github/followers/iCharlesZ" style="border: 1px solid #0366d6; padding: 5px; border-radius: 5px;">
+</a>
+
+<a href="https://github.com/iCharlesZ" style="text-decoration: none;">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ" style="border: 1px solid #0366d6; padding: 5px; border-radius: 5px;">
+</a>
+
 
 <!--
 Here are some ideas to get you started:
