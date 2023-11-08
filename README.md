@@ -1,7 +1,7 @@
 <h2 align="center">Hello, World 👋</h2> 
 <p><em>A bachelor student at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>, specializing in Computer Science. 😊</br>
 </em></p>
-## My Github Stats 📊 
+<h2> My Github Stats 📊 </h2>
 
 [![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515_private=true)](https://github.com/GALLEGOOOO)
 
