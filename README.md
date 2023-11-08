@@ -11,7 +11,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%23197BC9.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23E51F24.svg?style=for-the-badge"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23E51F24.svg?style=for-the-badge"/>J</a>
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-%23F89720.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-%230097D6.svg?style=for-the-badge&logo=xml&logoColor=white"/></a>
