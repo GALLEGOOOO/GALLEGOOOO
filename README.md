@@ -31,3 +31,4 @@
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge
 
+<h2>Other Accounts 📫</h2>
