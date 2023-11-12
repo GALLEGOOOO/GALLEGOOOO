@@ -1,5 +1,5 @@
 <h2>Hello, World 👋</h2> 
-<p><em>A bachelor student at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>, specializing in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>, specialized in IT and programming. 😊</br>
 </em></p>
 
 <h2>My Github Stats 📊</h2>
