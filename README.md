@@ -31,6 +31,7 @@
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-%231A61A9.svg?style=for-the-badge&logo=powershell&logoColor=white"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-%230075FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
 
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
