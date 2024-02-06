@@ -1,5 +1,5 @@
 <h2>Hello, World 👋</h2> 
-<p><em>A bachelor student at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>, specialized in IT and programming. 😊</br>
+<p><em>A student who is training to become a FULLSTACK DEVELOPER at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a>. 😊</br>
 </em></p>
 
 <h2>My Github Stats 📊</h2>
@@ -16,6 +16,7 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-%23F89720.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://www.w3.org/XML/"><img src="https://img.shields.io/badge/XML-%230097D6.svg?style=for-the-badge&logo=xml&logoColor=white"/></a>
 <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"/></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
 
 <h2>Development Tools 🛠️</h2>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/></a>
@@ -34,6 +35,13 @@
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-%230075FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 <a href="https://es.react.dev/"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://www.heidisql.com/"><img src="https://img.shields.io/badge/HeidiSQL-%23EA4AAA.svg?style=for-the-badge&logo=heidisql&logoColor=white"/></a>
+<a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black"/></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+<a href="https://www.scriptcase.net/"><img src="https://img.shields.io/badge/Scriptcase-%23FFC433.svg?style=for-the-badge&logo=scriptcase&logoColor=white"/></a>
+<a href="https://www.mysql.com/products/workbench/"><img src="https://img.shields.io/badge/MySQL%20Workbench-%2300A5F0.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-%231563FF.svg?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+<a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/></a>
 
 <h2>Other Accounts 📫</h2>
 <a href="https://www.linkedin.com/in/arnau-gallego-bassas-103246256/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
