@@ -5,6 +5,7 @@
 <h2>My Github Stats 📊</h2>
 
 [![GALLEGOOOO Github Stats](https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=737373&text_color=737373&bg_color=737373_private=true)](https://github.com/GALLEGOOOO)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=GALLEGOOOO&theme=default&hide_border=true)](https://github.com/GALLEGOOOO)
 
 <h2>Programming Languages 🚀</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
