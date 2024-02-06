@@ -1,5 +1,5 @@
 <h2>Hello World 👋</h2> 
-<p><em>A student who is training to become a FULLSTACK DEVELOPER at <a href="https://mataro.escolapia.cat">Escola Pia Mataró | FPGS - DAW</a>. 💫</br>
+<p><em>A student who is training to become a FULLSTACK DEVELOPER at <a href="https://mataro.escolapia.cat">Escola Pia Mataró</a> | FPGS - DAW. 💫</br>
 </em></p>
 
 <h2>My Github Stats 📊</h2>
