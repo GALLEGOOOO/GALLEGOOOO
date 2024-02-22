@@ -4,12 +4,10 @@
 
 <h2>My Github Stats 📊</h2>
 
-<p align="center">
   <a href="https://github.com/GALLEGOOOO">
     <img src="https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=737373&text_color=737373&bg_color=737373_private=true&border_color=007bff&border_width=5"/></a>
     <a href="https://github.com/GALLEGOOOO">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GALLEGOOOO&theme=default&hide_border=false&border_color=007bff&border_width=5"/></a>
-</p>
 
 <h2>Programming Languages 🚀</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
