@@ -8,7 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GALLEGOOOO&show_icons=true&count_color=fff&icon_color=737373&text_color=737373&bg_color=737373_private=true&border_color=007bff&border_width=10"/>    </a>
 
 <h2>Programming Languages 🚀</h2>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%23197BC9.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23E51F24.svg?style=for-the-badge"/></a>
@@ -20,6 +19,7 @@
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
 
 <h2>Development Tools 🛠️</h2>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio-%230093FF.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse%20IDE-%2300A98F.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/></a>
